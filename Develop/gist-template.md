@@ -1,49 +1,26 @@
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
+# OR Operator Regex
+Here below will be a explanation of OR Operator and how it functions
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+The OR operator is a Boolean operator which would return the value TRUE or Boolean value of 1 if either or both of the operands are TRUE or have Boolean value of 1. The OR operator is considered one of the basic logical operators along with AND and NOT in Boolean algebra. It is widely used in programming languages which support logical and comparison operators.
 
-## Table of Contents
+The OR operator can also be used in combination with other logical operators.
 
-- [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
-- [OR Operator](#or-operator)
-- [Character Classes](#character-classes)
-- [Flags](#flags)
-- [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
-## Regex Components
+![Xnip2021-10-10_11-48-13](https://user-images.githubusercontent.com/84043453/136703282-3168bec0-67b9-485f-b5e4-837670689203.jpg)
 
-### Anchors
-
-### Quantifiers
-
-### OR Operator
-
-### Character Classes
-
-### Flags
-
-### Grouping and Capturing
-
-### Bracket Expressions
-
-### Greedy and Lazy Match
-
-### Boundaries
-
-### Back-references
-
-### Look-ahead and Look-behind
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+New to coding, yet have been able to use my available resources to succeed in my tasks 
+
+https://github.com/micahlanham
+
+
+## Sources
+Description from:
+https://www.techopedia.com/definition/3486/or-operator
+
+Code snippet from:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR
